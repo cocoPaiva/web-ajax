@@ -19,6 +19,27 @@
     "foto":"portfolio-3.jpg",
     "sku": 3,
     "stock": 100
+  },
+   {
+    "display": "Producto 4",
+    "url": "computo.html",
+    "foto":"portfolio-4.jpg",
+    "sku": 1,
+    "stock": 5
+  },
+  {
+    "display": "Producto 5",
+    "url": "phone.html",
+    "foto":"portfolio-5.jpg",
+    "sku": 2,
+    "stock": 0
+  },
+  {
+    "display": "Producto 6",
+    "url": "office.html",
+    "foto":"portfolio-6.jpg",
+    "sku": 3,
+    "stock": 100
   }
 ]
  
