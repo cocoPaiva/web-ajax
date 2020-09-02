@@ -1,20 +1,20 @@
 [
   {
-    "display": "Equipo de computo",
+    "display": "Computadora de escritorio",
     "url": "computo.html",
     "foto":"portfolio-1.jpg",
     "sku": 1,
     "stock": 5
   },
   {
-    "display": "iPhone XPlus",
+    "display": "iPhone X++",
     "url": "phone.html",
     "foto":"portfolio-2.jpg",
     "sku": 2,
     "stock": 0
   },
   {
-    "display": "Office 365",
+    "display": "Office 365 online",
     "url": "office.html",
     "foto":"portfolio-3.jpg",
     "sku": 3,
