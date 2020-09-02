@@ -1,0 +1,10 @@
+.form-control
+{
+    background-color: aliceblue;
+    outline: auto;
+}
+
+.botonAccion{
+    background-color: #ff4f65;
+    color:white;
+}

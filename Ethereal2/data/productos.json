@@ -1,0 +1,24 @@
+[
+  {
+    "display": "Equipo de computo",
+    "url": "computo.html",
+    "foto":"portfolio-1.jpg",
+    "sku": 1,
+    "stock": 5
+  },
+  {
+    "display": "iPhone XPlus",
+    "url": "phone.html",
+    "foto":"portfolio-2.jpg",
+    "sku": 2,
+    "stock": 0
+  },
+  {
+    "display": "Office 365",
+    "url": "office.html",
+    "foto":"portfolio-3.jpg",
+    "sku": 3,
+    "stock": 100
+  }
+]
+ 
