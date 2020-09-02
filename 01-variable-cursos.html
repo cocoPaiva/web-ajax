@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<div id="contenedorCursos"></div>
+<script>
+var myArray = [
+  {
+    "nombreCurso": "JavaScript Tutorial 111 ",
+    "url": "https://www.w3schools.com/js/default.asp"
+  },
+  {
+    "nombreCurso": "HTML Tutorial 222 ",
+    "url": "https://www.w3schools.com/html/default.asp"
+  },
+  {
+    "nombreCurso": "CSS Tutorial 333",
+    "url": "https://www.w3schools.com/css/default.asp"
+  }
+];
+
+myFunction(myArray);
+
+function myFunction(arr) {
+  var out = "";
+  var i;
+  for(i = 0; i < arr.length; i++) {
+    out += '<a href="' + arr[i].url + '">' + 
+    arr[i].nombreCurso + '</a><br>';
+  }
+  document.getElementById("contenedorCursos").innerHTML = out;
+}
+</script>
+
+</body>
+</html>
